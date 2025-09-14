@@ -6,5 +6,157 @@
     "rare edge case attacks",
     "attack diversity metrics",
     "OWASP LLM risk coverage"
+  ],
+  "research_study_list": [
+    {
+      "title": "Uncovering Safety Risks of Large Language Models through Concept Activation Vector"
+    },
+    {
+      "title": "COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability"
+    },
+    {
+      "title": "Tree of Attacks: Jailbreaking Black-Box LLMs Automatically"
+    },
+    {
+      "title": "Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts"
+    },
+    {
+      "title": "Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation"
+    },
+    {
+      "title": "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents"
+    },
+    {
+      "title": "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models"
+    },
+    {
+      "title": "Are aligned neural networks adversarially aligned?"
+    },
+    {
+      "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal"
+    },
+    {
+      "title": "TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models"
+    },
+    {
+      "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal"
+    },
+    {
+      "title": "Curiosity-driven Red-teaming for Large Language Models"
+    },
+    {
+      "title": "Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts"
+    },
+    {
+      "title": "A2: Efficient Automated Attacker for Boosting Adversarial Training"
+    },
+    {
+      "title": "A2: Efficient Automated Attacker for Boosting Adversarial Training"
+    },
+    {
+      "title": "NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security"
+    },
+    {
+      "title": "Tree of Attacks: Jailbreaking Black-Box LLMs Automatically"
+    },
+    {
+      "title": "Automated Discovery of Adaptive Attacks on Adversarial Defenses"
+    },
+    {
+      "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases"
+    },
+    {
+      "title": "ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users"
+    },
+    {
+      "title": "Attack of the Tails: Yes, You Really Can Backdoor Federated Learning"
+    },
+    {
+      "title": "Unmasking Vulnerabilities: Cardinality Sketches under Adaptive Inputs"
+    },
+    {
+      "title": "De-Anonymizing Text by Fingerprinting Language Generation"
+    },
+    {
+      "title": "Efficient Loss Function by Minimizing the Detrimental Effect of Floating-Point Errors on Gradient-Based Attacks"
+    },
+    {
+      "title": "Deduplicating Training Data Mitigates Privacy Risks in Language Models"
+    },
+    {
+      "title": "Deduplicating Training Data Mitigates Privacy Risks in Language Models"
+    },
+    {
+      "title": "Many-shot Jailbreaking"
+    },
+    {
+      "title": "The Privacy Onion Effect: Memorization is Relative"
+    },
+    {
+      "title": "Fooling a Complete Neural Network Verifier"
+    },
+    {
+      "title": "Exploiting LLM Quantization"
+    },
+    {
+      "title": "Diversity can be Transferred: Output Diversification for White- and Black-box Attacks"
+    },
+    {
+      "title": "Modelling Behavioural Diversity for Learning in Open-Ended Games"
+    },
+    {
+      "title": "Modelling Behavioural Diversity for Learning in Open-Ended Games"
+    },
+    {
+      "title": "Revisiting Injective Attacks on Recommender Systems"
+    },
+    {
+      "title": "A Unified Diversity Measure for Multiagent Reinforcement Learning"
+    },
+    {
+      "title": "Towards Unifying Behavioral and Response Diversity for Open-ended Learning in Zero-sum Games"
+    },
+    {
+      "title": "MultiRobustBench: Benchmarking Robustness Against Multiple Attacks"
+    },
+    {
+      "title": "On the Relation between Quality-Diversity Evaluation and Distribution-Fitting Goal in Text Generation"
+    },
+    {
+      "title": "Measures of diversity and space-filling designs for categorical data"
+    },
+    {
+      "title": "Protecting DNNs from Theft using an Ensemble of Diverse Models"
+    },
+    {
+      "title": "PrivAuditor: Benchmarking Data Protection Vulnerabilities in LLM Adaptation Techniques"
+    },
+    {
+      "title": "Position: TrustLLM: Trustworthiness in Large Language Models"
+    },
+    {
+      "title": "Uncovering Safety Risks of Large Language Models through Concept Activation Vector"
+    },
+    {
+      "title": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox"
+    },
+    {
+      "title": "Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition"
+    },
+    {
+      "title": "Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs"
+    },
+    {
+      "title": "TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models"
+    },
+    {
+      "title": "Position: Building Guardrails for Large Language Models Requires Systematic Design"
+    },
+    {
+      "title": "Can LLMs Implicitly Learn Numeric Parameter Constraints in Data Science APIs?"
+    },
+    {
+      "title": "Position: Fundamental Limitations of LLM Censorship Necessitate New Approaches"
+    }
   ]
 }
